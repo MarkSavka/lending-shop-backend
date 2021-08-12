@@ -1,5 +1,5 @@
 {
-    "ptoducts": [
+    "products": [
         {
             "id": 0,
             "imgUrl": "https://marksavka.sirv.com/jaedar-resto/PeopleAvatar/pf_4.png",
@@ -10,7 +10,7 @@
                 "height": 500
             },
             "weight": 740,
-            "comments": ""
+            "comment": "This is comment for product"
         },
         {
             "id": 1,
@@ -22,7 +22,7 @@
                 "height": 600
             },
             "weight": 720,
-            "comments": ""
+            "comment": "This is comment for product"
         },
         {
             "id": 2,
@@ -34,7 +34,7 @@
                 "height": 500
             },
             "weight": 250,
-            "comments": ""
+            "comment": "This is comment for product"
         },
         {
             "id": 3,
@@ -46,7 +46,7 @@
                 "height": 400
             },
             "weight": 930,
-            "comments": ""
+            "comment": "This is comment for product"
         },
         {
             "id": 4,
@@ -58,7 +58,7 @@
                 "height": 100
             },
             "weight": 950,
-            "comments": ""
+            "comment": "This is comment for product"
         },
         {
             "id": 5,
@@ -70,7 +70,7 @@
                 "height": 300
             },
             "weight": 870,
-            "comments": ""
+            "comment": "This is comment for product"
         },
         {
             "id": 6,
@@ -82,7 +82,7 @@
                 "height": 200
             },
             "weight": 220,
-            "comments": ""
+            "comment": "This is comment for product"
         },
         {
             "id": 7,
@@ -94,7 +94,7 @@
                 "height": 100
             },
             "weight": 670,
-            "comments": ""
+            "comment": "This is comment for product"
         },
         {
             "id": 8,
@@ -106,7 +106,7 @@
                 "height": 100
             },
             "weight": 720,
-            "comments": ""
+            "comment": "This is comment for product"
         },
         {
             "id": 9,
@@ -118,7 +118,7 @@
                 "height": 400
             },
             "weight": 370,
-            "comments": ""
+            "comment": "This is comment for product"
         },
         {
             "id": 10,
@@ -130,7 +130,7 @@
                 "height": 100
             },
             "weight": 690,
-            "comments": ""
+            "comment": "This is comment for product"
         },
         {
             "id": 11,
@@ -142,7 +142,7 @@
                 "height": 700
             },
             "weight": 690,
-            "comments": ""
+            "comment": "This is comment for product"
         },
         {
             "id": 12,
@@ -154,7 +154,7 @@
                 "height": 500
             },
             "weight": 690,
-            "comments": ""
+            "comment": "This is comment for product"
         },
         {
             "id": 13,
@@ -166,7 +166,7 @@
                 "height": 400
             },
             "weight": 750,
-            "comments": ""
+            "comment": "This is comment for product"
         },
         {
             "id": 14,
@@ -178,7 +178,7 @@
                 "height": 800
             },
             "weight": 170,
-            "comments": ""
+            "comment": "This is comment for product"
         },
         {
             "id": 15,
@@ -190,7 +190,7 @@
                 "height": 400
             },
             "weight": 650,
-            "comments": ""
+            "comment": "This is comment for product"
         },
         {
             "id": 16,
@@ -202,7 +202,7 @@
                 "height": 400
             },
             "weight": 830,
-            "comments": ""
+            "comment": "This is comment for product"
         },
         {
             "id": 17,
@@ -214,7 +214,7 @@
                 "height": 100
             },
             "weight": 260,
-            "comments": ""
+            "comment": "This is comment for product"
         },
         {
             "id": 18,
@@ -226,7 +226,7 @@
                 "height": 300
             },
             "weight": 990,
-            "comments": ""
+            "comment": "This is comment for product"
         },
         {
             "id": 19,
@@ -238,7 +238,7 @@
                 "height": 400
             },
             "weight": 830,
-            "comments": ""
+            "comment": "This is comment for product"
         },
         {
             "id": 20,
@@ -250,7 +250,7 @@
                 "height": 800
             },
             "weight": 900,
-            "comments": ""
+            "comment": "This is comment for product"
         }
     ]
 }
