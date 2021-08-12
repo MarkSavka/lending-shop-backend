@@ -1,0 +1,256 @@
+{
+    "ptoducts": [
+        {
+            "id": 0,
+            "imgUrl": "https://marksavka.sirv.com/jaedar-resto/PeopleAvatar/pf_4.png",
+            "name": "Austin Saunders",
+            "count": 7,
+            "size": {
+                "width": 300,
+                "height": 500
+            },
+            "weight": 740,
+            "comments": ""
+        },
+        {
+            "id": 1,
+            "imgUrl": "https://marksavka.sirv.com/jaedar-resto/PeopleAvatar/pf_4.png",
+            "name": "Delaney Barrera",
+            "count": 14,
+            "size": {
+                "width": 500,
+                "height": 600
+            },
+            "weight": 720,
+            "comments": ""
+        },
+        {
+            "id": 2,
+            "imgUrl": "https://marksavka.sirv.com/jaedar-resto/PeopleAvatar/pf_5.png",
+            "name": "Cora Watson",
+            "count": 7,
+            "size": {
+                "width": 700,
+                "height": 500
+            },
+            "weight": 250,
+            "comments": ""
+        },
+        {
+            "id": 3,
+            "imgUrl": "https://marksavka.sirv.com/jaedar-resto/PeopleAvatar/pf_1.png",
+            "name": "Tanya Rodriquez",
+            "count": 3,
+            "size": {
+                "width": 700,
+                "height": 400
+            },
+            "weight": 930,
+            "comments": ""
+        },
+        {
+            "id": 4,
+            "imgUrl": "https://marksavka.sirv.com/jaedar-resto/PeopleAvatar/pf_2.png",
+            "name": "Bentley Whitley",
+            "count": 3,
+            "size": {
+                "width": 400,
+                "height": 100
+            },
+            "weight": 950,
+            "comments": ""
+        },
+        {
+            "id": 5,
+            "imgUrl": "https://marksavka.sirv.com/jaedar-resto/PeopleAvatar/pf_2.png",
+            "name": "Sandra Bell",
+            "count": 10,
+            "size": {
+                "width": 100,
+                "height": 300
+            },
+            "weight": 870,
+            "comments": ""
+        },
+        {
+            "id": 6,
+            "imgUrl": "https://marksavka.sirv.com/jaedar-resto/PeopleAvatar/pf_1.png",
+            "name": "Ruthie Rodgers",
+            "count": 2,
+            "size": {
+                "width": 600,
+                "height": 200
+            },
+            "weight": 220,
+            "comments": ""
+        },
+        {
+            "id": 7,
+            "imgUrl": "https://marksavka.sirv.com/jaedar-resto/PeopleAvatar/pf_6.png",
+            "name": "Duffy Pruitt",
+            "count": 14,
+            "size": {
+                "width": 200,
+                "height": 100
+            },
+            "weight": 670,
+            "comments": ""
+        },
+        {
+            "id": 8,
+            "imgUrl": "https://marksavka.sirv.com/jaedar-resto/PeopleAvatar/pf_5.png",
+            "name": "Amber Wall",
+            "count": 17,
+            "size": {
+                "width": 700,
+                "height": 100
+            },
+            "weight": 720,
+            "comments": ""
+        },
+        {
+            "id": 9,
+            "imgUrl": "https://marksavka.sirv.com/jaedar-resto/PeopleAvatar/pf_2.png",
+            "name": "Tasha Sanchez",
+            "count": 3,
+            "size": {
+                "width": 800,
+                "height": 400
+            },
+            "weight": 370,
+            "comments": ""
+        },
+        {
+            "id": 10,
+            "imgUrl": "https://marksavka.sirv.com/jaedar-resto/PeopleAvatar/pf_2.png",
+            "name": "Carolyn Mckenzie",
+            "count": 17,
+            "size": {
+                "width": 500,
+                "height": 100
+            },
+            "weight": 690,
+            "comments": ""
+        },
+        {
+            "id": 11,
+            "imgUrl": "https://marksavka.sirv.com/jaedar-resto/PeopleAvatar/pf_5.png",
+            "name": "Holland Pittman",
+            "count": 4,
+            "size": {
+                "width": 300,
+                "height": 700
+            },
+            "weight": 690,
+            "comments": ""
+        },
+        {
+            "id": 12,
+            "imgUrl": "https://marksavka.sirv.com/jaedar-resto/PeopleAvatar/pf_6.png",
+            "name": "Lidia Santana",
+            "count": 17,
+            "size": {
+                "width": 700,
+                "height": 500
+            },
+            "weight": 690,
+            "comments": ""
+        },
+        {
+            "id": 13,
+            "imgUrl": "https://marksavka.sirv.com/jaedar-resto/PeopleAvatar/pf_3.png",
+            "name": "Carolina Larsen",
+            "count": 13,
+            "size": {
+                "width": 600,
+                "height": 400
+            },
+            "weight": 750,
+            "comments": ""
+        },
+        {
+            "id": 14,
+            "imgUrl": "https://marksavka.sirv.com/jaedar-resto/PeopleAvatar/pf_3.png",
+            "name": "Hope Frank",
+            "count": 7,
+            "size": {
+                "width": 800,
+                "height": 800
+            },
+            "weight": 170,
+            "comments": ""
+        },
+        {
+            "id": 15,
+            "imgUrl": "https://marksavka.sirv.com/jaedar-resto/PeopleAvatar/pf_5.png",
+            "name": "Franco Duffy",
+            "count": 12,
+            "size": {
+                "width": 400,
+                "height": 400
+            },
+            "weight": 650,
+            "comments": ""
+        },
+        {
+            "id": 16,
+            "imgUrl": "https://marksavka.sirv.com/jaedar-resto/PeopleAvatar/pf_1.png",
+            "name": "Bertie Carver",
+            "count": 3,
+            "size": {
+                "width": 100,
+                "height": 400
+            },
+            "weight": 830,
+            "comments": ""
+        },
+        {
+            "id": 17,
+            "imgUrl": "https://marksavka.sirv.com/jaedar-resto/PeopleAvatar/pf_6.png",
+            "name": "Paul Holland",
+            "count": 12,
+            "size": {
+                "width": 200,
+                "height": 100
+            },
+            "weight": 260,
+            "comments": ""
+        },
+        {
+            "id": 18,
+            "imgUrl": "https://marksavka.sirv.com/jaedar-resto/PeopleAvatar/pf_6.png",
+            "name": "Susanne Mcclain",
+            "count": 4,
+            "size": {
+                "width": 100,
+                "height": 300
+            },
+            "weight": 990,
+            "comments": ""
+        },
+        {
+            "id": 19,
+            "imgUrl": "https://marksavka.sirv.com/jaedar-resto/PeopleAvatar/pf_1.png",
+            "name": "Howe Ray",
+            "count": 18,
+            "size": {
+                "width": 700,
+                "height": 400
+            },
+            "weight": 830,
+            "comments": ""
+        },
+        {
+            "id": 20,
+            "imgUrl": "https://marksavka.sirv.com/jaedar-resto/PeopleAvatar/pf_1.png",
+            "name": "Cardenas Morton",
+            "count": 9,
+            "size": {
+                "width": 300,
+                "height": 800
+            },
+            "weight": 900,
+            "comments": ""
+        }
+    ]
+}
