@@ -1,18 +1,6 @@
 {
     "products": [
         {
-            "id": 0,
-            "imgUrl": "https://marksavka.sirv.com/jaedar-resto/PeopleAvatar/pf_4.png",
-            "name": "Austin Saunders",
-            "count": 7,
-            "size": {
-                "width": 300,
-                "height": 500
-            },
-            "weight": 740,
-            "comment": "This is comment for product"
-        },
-        {
             "id": 1,
             "imgUrl": "https://marksavka.sirv.com/jaedar-resto/PeopleAvatar/pf_4.png",
             "name": "Delaney Barrera",
